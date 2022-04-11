@@ -1,1 +1,1 @@
-"# employeedata" 
+"# This project is a program built with Angular on top of a .Net/C# backend that allows the user to add,update, and delete Employee information based on department name and ID using API methods to a SQL database. Please visit 1111111dotcomslashgithubpages to preview and play around with the UI functions. " 
